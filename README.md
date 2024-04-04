@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nilesh Jhalani</h1>
 <h3 align="center">A passionate Business Analyts from India</h3>
+<img align="right" width="400" height="400" src=![animited](https://github.com/nileshjhalani/Nileshjhalani/assets/115102638/9a0bae4b-d27d-4c23-8efa-3dd3f40a23d8)>
 
-- 👀 I’m interested in **Data Analysis📉, visualization📈 and love learning new skills📚.**
+
+- 👀 I have a keen interest in **data analysis📉 visualization📈 and continuously expanding my skill set.📚.**
 
 - 📚 I’m currently learning **Python and R Programming**
 
