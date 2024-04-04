@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilesh Jhalani</h1>
 <h3 align="center">A passionate Business Analyts from India</h3>
-<img align="right" width="400" height="400" src=![animited](https://github.com/nileshjhalani/Nileshjhalani/assets/115102638/9a0bae4b-d27d-4c23-8efa-3dd3f40a23d8)>
 
+<img align="right" width="300" height="300" src="(https://github.com/nileshjhalani/Nileshjhalani/assets/115102638/d8c14e07-d27d-400f-b51d-f7fc2cd37023)">
 
 - 👀 I have a keen interest in **data analysis📉 visualization📈 and continuously expanding my skill set.📚.**
 
