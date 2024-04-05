@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nilesh Jhalani</h1>
-<h3 align="center">A passionate Business Analyts from India</h3>
+<h3 align="center">A passionate Business Analyst </h3>
 
 ![animited](https://github.com/nileshjhalani/Nileshjhalani/assets/115102638/a61974d3-7938-4a91-a3d8-212a8a0a498a) 
 
-- 👀 I have a keen interest in **data analysis📉 visualization📈 and continuously expanding my skill set.**
+- 👀 I have a keen interest in **Data Analysis📉 Visualization📈 and Continuously expanding my Skill set.**
 
 - 📚 I’m currently learning **Python and R Programming**
 
@@ -11,16 +11,15 @@
 
 - 💬 Ask me about **SQL,PowerBI,Excel,Tableau,dashboard building,design and Agile Scrum**
 
-- 📫 How to reach me **nileshjhalani1276@gmail.com**
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/nileshjhalani/)
 
-- 👨‍💻 All of my projects are available at https://github.com/nileshjhalani/
+- ⚡ My Portfolio Landing Page - [Click here](https://nilesh-jhalani.carrd.co/)
 
-- 📝 PoweBI Portfolio [https://www.novypro.com/profile_projects/nileshjhalani](https://www.novypro.com/profile_projects/nileshjhalani)
+- 👨‍💻 All of my projects are available at [GitHub]( https://github.com/nileshjhalani/)
 
-- 📄 Tableau Public Portfolio [https://public.tableau.com/app/profile/nilesh.jhalani/vizzes](https://public.tableau.com/app/profile/nilesh.jhalani/vizzes)
+- 📝 [PoweBI Portfolio](https://www.novypro.com/profile_projects/nileshjhalani)
 
-- ⚡ My Portfolio Landing Page **https://nilesh_jhalani.dorik.io/**
-
+- 📄 [Tableau Public Portfolio](https://public.tableau.com/app/profile/nilesh.jhalani/vizzes)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
