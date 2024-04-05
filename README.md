@@ -3,7 +3,7 @@
 
 ![animited](https://github.com/nileshjhalani/Nileshjhalani/assets/115102638/a61974d3-7938-4a91-a3d8-212a8a0a498a) 
 
-- 👀 I have a keen interest in **data analysis📉 visualization📈 and continuously expanding my skill set.📚.**
+- 👀 I have a keen interest in **data analysis📉 visualization📈 and continuously expanding my skill set.**
 
 - 📚 I’m currently learning **Python and R Programming**
 
