@@ -9,7 +9,7 @@
 
 - 🌱 I've self taught myself to **get transitioned into Data Analytics and start a new journey 🛣️.**
 
-- 💬 Ask me about **SQL,PowerBI,Excel,Tableau,dashboard building,design and Agile Scrum**
+- 💬 Ask me about **SQL,PowerBI,Excel,Tableau,dashboard building and design**
 
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/nileshjhalani/)
 
