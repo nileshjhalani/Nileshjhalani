@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilesh Jhalani</h1>
-<h3 align="center"> Data Analyst </h3>
+<h3 align="center"> Power BI Developer </h3>
 
 ![animited](https://github.com/nileshjhalani/Nileshjhalani/assets/115102638/a61974d3-7938-4a91-a3d8-212a8a0a498a) 
 
